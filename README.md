@@ -12,4 +12,4 @@ yarn install
 ```
 rails server 
 ```
-## Para ver o aplicativo em funcionamente entre em ['Clique aqui!'](http://localhost:3000)
+## Para ver o aplicativo em funcionamente entre em [Clique aqui!](http://localhost:3000)
