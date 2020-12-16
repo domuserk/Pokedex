@@ -2,6 +2,7 @@
 
 ```
 #Entre na pasta do projeto e rode 
+rails db:setup
 blunde install
 #em seguida rode
 npm install
